@@ -9,7 +9,7 @@ Basically I am putting together a series of tutorial videos introducing programm
 
 Additional information can be found at the bottom of this page under the *Change Log* section.
 
-Branch Name | NodeJS Version 
+Branch Name | NodeJS Version
 --|---|--
 master  | v 6.7.0  
 node-6_7_0  | v 6.7.0  
@@ -22,7 +22,7 @@ A nice, detailed breakdown of Javascript features supported by NodeJS versions c
 - **Date**: [ Oct. 6, 2016 ]
 - **Video Link**:
 - **Overview**: Basic summary of NodeJS, Javascript, and intended plans/goals for this tutorial to achieve.
-- **Detailed Summary Page**[000-Starting-Point/Summary.md]](./000-Starting-Point/Summary.md)
+- **Detailed Summary Page**[000-Starting-Point/Summary.md](./000-Starting-Point/Summary.md)
 - **Local Directory**:
 
 #### 1. Installing NodeJS on Linux (Ubuntu):
