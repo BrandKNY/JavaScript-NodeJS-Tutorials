@@ -62,6 +62,8 @@ While covering these concepts I will likely show how those things were tradition
 
 - As of this writing NodeJS stable release is version 6.7.0. It supports the majority of ES6 (ES 2015) features. A breakdown of this support by NodeJS version can be [found here at node.green](http://node.green/)
 
+- If you look at versioning numbers historically for NodeJS you will see a strange gap where it goes from 0.10, 0.12, to suddenly v4.x, v5.x, v6.x. In 2014 NodeJS was forked into another project called **io.js** which held versions 1.x, 2.x, and 3.x; In Late 2015 the projects merged back together to create v4.0 and remained unified ever since.
+
 #### A little bit about Server-side JavaScript with NodeJS
 
 - **Note**: What follows here is a loose overview of some concepts concerning NodeJS. I anticipate covering all of these concepts in much more detail during the individual tutorials that cover them, so don't get too stuck or confused on their details yet.
