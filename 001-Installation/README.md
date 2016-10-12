@@ -80,7 +80,7 @@ If you already have nodejs installed on your system you may need to remove it fi
 
 You can check if you have either of them by simply running `node -v` and `npm -v` from command line. You should also check `nodejs -v`. If any of them exist, you can try `whereis node`, `whereis nodejs`, and/or `whereis npm`. Alternatively, sometimes replacing `whereis` with `which` can be useful for locating binaries in your PATH.
 
-** process **
+**process**
 
 1. make sure your system is up-to-date: `sudo apt-get update`
 2. **(optional)**: you may opt to upgrade all software packages and even the core/kernel modules and dependencies using `sudo apt-get upgrade -y` or `sudo apt-get dist-upgrade`)
