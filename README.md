@@ -22,14 +22,14 @@ A nice, detailed breakdown of Javascript features supported by NodeJS versions c
 - **Date**: [ Oct. 6, 2016 ]
 - **Video Link**:
 - **Overview**: Basic summary of NodeJS, Javascript, and intended plans/goals for this tutorial to achieve.
-- **Detailed Summary Page**:  [000-Starting-Point/Summary.md](./000-Starting-Point/Summary.md)
+- **Detailed Summary Page**:  [000-Starting-Point/Summary.md](./000-Starting-Point/README.md)
 - **Local Directory**: [Associated Directory Link](./000-Starting-Point/)
 
 #### 1. Installing NodeJS on Linux (Ubuntu):
 - **Date**: [ Oct. 6, 2016 ]
 - **Video Link**:
 - **Overview**: Covers installation of *NodeJS* current version (**6.7.0** as of this writing) and subsequently installs *NPM* version (**3.10.3** as of this writing)
-- **Detailed Summary Page**:  [001-Installation/Summary.md](./001-Installation/Summary.md)
+- **Detailed Summary Page**:  [001-Installation/Summary.md](./001-Installation/README.md)
 - **Local Directory**: [Associated Directory Link](./001-Installation/)
 
 
