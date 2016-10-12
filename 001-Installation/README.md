@@ -88,7 +88,7 @@ You can check if you have either of them by simply running `node -v` and `npm -v
   - we'll use this to grab the shell script, for security reasons as I will explain.
 4. open terminal (Ctrl + Alt + T usually works as a shortcut for this, at least in Unity DE)
 5. open browser and navigate to [this stack-overflow post](http://stackoverflow.com/questions/34974535/install-latest-nodejs-version-in-ubuntu-14-04)
-  - Note the top answer by user: war1oc . In fact I have made a comment about my issue with on that post as user: Brandon K . We are going to effectively mitigate that security issue I mention in the commend.
+  - Note the top answer by user: war1oc . In fact I have made a comment about my issue with on that post as user: Brandon K . We are going to effectively mitigate that security issue I mention in the comment.
   - the recommendation for Node.js v6 in that answer is:
     - `curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash - `
     - `sudo apt-get install -y nodejs`
