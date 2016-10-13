@@ -34,6 +34,7 @@ A quick list of my Atom plugins:
 - project-manager
 - terminal-plus
 - todo-manager
+- tool-bar
 - tool-bar-markdown-writer
 
 **themes**
