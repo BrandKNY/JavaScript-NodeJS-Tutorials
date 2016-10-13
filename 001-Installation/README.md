@@ -1,11 +1,17 @@
 # 001 - Installing Software and Preparing Development Environment
 
 ---
+
+## Main Topics Covered
+
+1. Install NodeJS
+2. Install Webstorm IDE
+3. Install Atom Editor and plugins for NodeJS development
+
 ## Overview
 We are going to be setting up our development machine. For the purpose of this tutorial I will be using Linux (Ubuntu 16.04) 64-bit Desktop OS. We are going to setup NodeJS and NPM using a specific process that allows us to grab the most current version. Furthermore, I will be setting up an IDE (which I will be using throughout the tutorials) and a text-editor with some plugins meant for NodeJS development within it.
 
 Note: In the next tutorial I will cover some very simple 'Hello World!' type scripts and launching them with debugging capabilities using three different options: (1) command-line text editor (nano) with attached default Node Debugger tools; (2) Atom with plugins for debugging; (3) Webstorm IDE with built-in debugger. Afterwards I will only be using Webstorm in my tutorial videos, but hopefully the initial coverage of Atom will suffice to allow viewers to adapt and carry out the same basic tasks within Atom. For now we are just going to install these things and configure them.
-
 
 #### About Webstorm IDE
 
@@ -114,8 +120,9 @@ When you run updates/upgrades or install commands using *apt* it will check here
 13. verify nodejs: `node -v` -> should output *v6.7.0* or similar
 14. verify npm: `npm -v` -> should output *v3.10.3* or similar
 15. just to familiarize yourself with location of binary: `whereis node`
-  - should output *node: /usr/bin/node /usr/include/node /usr/share/man/man1/node.1.gz*
+  - should output *node: /usr/bin/node /usr/include/node /usr/share/man/man1/node.1.gz*  
   - the first of those absolute paths is to the executable binary invoked with **node** command globally
+  
 ---
 
 ## Installing and Setting Up Development Environment Software
@@ -124,10 +131,13 @@ Here I will download, install, and customize/configure IDE and Editors.
 ### Install & Configure Webstorm IDE
 - [Open this link](https://www.jetbrains.com/webstorm/download/#section=linux-version) to the Jetbrains Webstorm site download page
 - Download the version for your Operating System of choice (Linux in my case)
-- Navigate to your Downloads folder and open the file; It will be a **.tar.gz** file
+- Navigate to your Downloads folder and open the file; It will be a **.tar.gz** archive file
+- Generally I install/extract user-specific programs to a directory called "Programs" inside my user's home directory. (e.g. /home/brandon/Programs/ )
 
 ### Install & Configure Atom Editor with Plugins
-
+- [Open this link](https://atom.io/) to the Atom.io site download page
+- Download the appropriate package build for your system
+- Use package manager to open and allow it permission to install
 
 ---
 ## Useful and Relevant Links:
